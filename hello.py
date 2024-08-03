@@ -8,7 +8,7 @@ __author__ = "C0d4c"
 __licence__ = "Unlicense"
 
 
-import os
+""" import os
 
 langs = os.getenv("LANG")[:5]
 
@@ -18,6 +18,6 @@ if langs == "en_US":
 elif langs == "pt_BR":
     print("Olá, mundo!")
 elif langs == "it_IT":
-    print("Bella, ciao!")
+    print("Bella, ciao!") """
 #print("Hello, world!") # Say this, hello world!
 #print("Hellows".upper()) #Upper Case
